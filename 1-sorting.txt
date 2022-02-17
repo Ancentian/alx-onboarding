@@ -1,0 +1,18 @@
+start
+
+Read n1, n2 and n3
+
+input n1, n2, and n3
+
+if n1> n2 && n1>n3 then
+Print n1 is the largest
+
+else if n2> n3 then 
+
+Print n2 is the largest
+
+else 
+Print n3 is  the largest
+
+end
+
