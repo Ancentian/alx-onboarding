@@ -1,0 +1,12 @@
+initialize sum to 0
+
+input the number n
+
+square = n * n
+
+sum = sum + square
+
+input the next number
+
+Print sum
+
